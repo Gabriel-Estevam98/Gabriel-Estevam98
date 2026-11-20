@@ -32,13 +32,25 @@
 
 ---
 
-### 🌐 Vamos nos conectar!
 
-<a href="https://github.com/Gabriel-Estevam98" target="_blank">
-  <img
-    src="https://cdn.simpleicons.org/github/white"
-    alt="GitHub de Gabriel Estevam"
-    width="60"
-    height="60"
-  />
-</a>
+<h3>🌐 Vamos nos conectar!</h3>
+
+<p>
+  <a href="https://github.com/Gabriel-Estevam98">
+    <img
+      src="https://cdn.simpleicons.org/github/white"
+      alt="GitHub"
+      width="50"
+      height="50"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="LINK_DO_SEU_LINKEDIN">
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      alt="LinkedIn"
+      width="50"
+      height="50"
+    />
+  </a>
+</p>
