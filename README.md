@@ -42,3 +42,15 @@ Desenvolvedor em formação, apaixonado por tecnologia, programação e games.
 <a href="https://www.linkedin.com/in/gbestevam/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se com Gabriel Estevam no LinkedIn" />
 </a>
+
+---
+
+<div align="center">
+
+### ❤️ Obrigado por visitar meu perfil!
+
+<sub>Construindo projetos, aprendendo sempre e dando o próximo commit. 🚀</sub>
+
+[![Meu GitHub](https://img.shields.io/badge/Meu%20GitHub-Drops--Dev-E50914?style=flat-square&logo=github&logoColor=white)](https://github.com/Gabriel-Estevam98)
+
+</div>
