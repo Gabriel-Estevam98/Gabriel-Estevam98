@@ -1,16 +1,37 @@
-### Hi there 👋
 
-<!--
-**Gabriel-Estevam98/Gabriel-Estevam98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎮 Olá, eu sou o Drops!
 
-Here are some ideas to get you started:
+### 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Futuro desenvolvedor, apaixonado por tecnologia, programação e games.
+
+---
+
+### 👨‍💻 Sobre mim
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🐍 Estudando Python e estruturas de dados
+- 📊 Interesse em desenvolvimento de sistemas e análise de dados
+- 🎮 Gamer nas horas vagas
+- 🚀 Desenvolvendo projetos e aprimorando minhas habilidades
+
+### 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 📂 Projetos
+
+- [DropsCode](https://github.com/Gabriel-Estevam98/DropsCode)
+- [Trabalhos da Faculdade](https://github.com/Gabriel-Estevam98/Trabalhos-da-faculdade)
+
+---
+
+### 🌐 Vamos nos conectar!
+
+[![GitHub](https://img.shields.io/badge/GitHub-DropsDev-8A2BE2?style=for-the-badge&logo=github)](https://github.com/Gabriel-Estevam98)
