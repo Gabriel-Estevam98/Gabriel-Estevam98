@@ -34,6 +34,11 @@
 
 ### 🌐 Vamos nos conectar!
 
-[![Meu GitHub](https://img.shields.io/badge/GitHub-Gabriel--Estevam98-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-Estevam98)
-
-🔗 [Acesse meu perfil do GitHub](https://github.com/Gabriel-Estevam98)
+<a href="https://github.com/Gabriel-Estevam98" target="_blank">
+  <img
+    src="https://cdn.simpleicons.org/github/white"
+    alt="GitHub de Gabriel Estevam"
+    width="60"
+    height="60"
+  />
+</a>
