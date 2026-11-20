@@ -47,7 +47,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="LINK_DO_SEU_LINKEDIN">
     <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://www.linkedin.com/in/gbestevam/)"
       alt="LinkedIn"
       width="50"
       height="50"
