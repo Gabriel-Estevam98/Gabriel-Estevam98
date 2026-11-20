@@ -34,4 +34,6 @@
 
 ### 🌐 Vamos nos conectar!
 
-[![GitHub](https://img.shields.io/badge/GitHub-DropsDev-8A2BE2?style=for-the-badge&logo=github)](https://github.com/Gabriel-Estevam98)
+[![Meu GitHub](https://img.shields.io/badge/GitHub-Gabriel--Estevam98-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-Estevam98)
+
+🔗 [Acesse meu perfil do GitHub](https://github.com/Gabriel-Estevam98)
